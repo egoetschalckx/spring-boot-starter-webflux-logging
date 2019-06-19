@@ -1,0 +1,8 @@
+target/
+build/
+classes/
+out/
+.clover/
+.gradle/
+.idea/
+*.iml

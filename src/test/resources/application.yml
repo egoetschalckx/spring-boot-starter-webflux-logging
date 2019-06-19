@@ -1,0 +1,14 @@
+ncr:
+  cloud:
+    user:
+      shared-key: 59b6b14edb584d8ea9ebe5f5a9b0ee80
+      secret-key: 63c34207d7f54ff7b4012ed3c0100d0d
+
+logging:
+  web:
+    enabled: true
+    include-body: true
+
+  level:
+    com.goetschalckx.spring.web: DEBUG
+    reactor.netty.http.client.HttpClient: DEBUG
